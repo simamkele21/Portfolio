@@ -1,0 +1,19 @@
+.banner-text {
+  position: absolute;
+  top: 35%;
+  text-align: center;
+  left: 15%;
+}
+
+.banner-text h2 {
+  color: seashell;
+  font-size: 75px;
+  margin: 0;
+}
+
+.banner-text p {
+  color: seashell;
+  font-size: 20px;
+  margin: 0;
+  font-weight: bold;
+}
